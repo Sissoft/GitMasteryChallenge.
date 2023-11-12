@@ -1,10 +1,8 @@
 
-The third commit status
-The readme file for the branch
-
+This is confilict resolution one 
 This  Readme file is for the GitMasteryChallenge repository.
 
 # GitMasteryChallenge.
 This  repository is created for exercise one
 
-
+## Readme on the main
