@@ -1,4 +1,5 @@
 
+This is confilict resolution one 
 This  Readme file is for the GitMasteryChallenge repository.
 
 # GitMasteryChallenge.
